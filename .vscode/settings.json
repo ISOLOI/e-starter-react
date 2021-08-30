@@ -1,0 +1,6 @@
+{
+  "git.ignoreLimitWarning": true,
+  "json.format.enable": false,
+  "javascript.format.enable": false,
+  "yaml.format.enable": false
+}

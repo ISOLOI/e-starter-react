@@ -35,6 +35,7 @@ export const products = [...Array(50)].map((item) => ({
 export const SORT_BY_PRICE = "sortByPrice";
 export const INCLUDE_OUT_OF_STOCK = "includeOutOfStock";
 export const ONLY_FAST_DELIVERY = "onlyFastDelivery";
+export const FILTER_BY_STOCK = "filterByStock";
 
 export const productsReducer = (state, { type, value }) => {
   switch (type) {
